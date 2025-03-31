@@ -13,8 +13,6 @@ This repository contains a collection of projects that demonstrate my understand
 - Java
 - OOP Principles (Encapsulation, Abstraction, Inheritance, Polymorphism)
 - Collections Framework
-- File Handling
-- Exception Handling
 - Design Patterns (if applicable)
 
 ## 📌 Future Enhancements
