@@ -1,3 +1,7 @@
+## 🔥 Machine Learning Focus:
+
+![Machine Learning Banner](https://cdn.analyticsvidhya.com/wp-content/uploads/2023/06/What-is-Machine-Learning-.jpeg)
+
 # Hi 👋, I'm Yash Kumar
 
 A passionate Software developer from India 
