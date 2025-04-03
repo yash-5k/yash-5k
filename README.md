@@ -39,20 +39,3 @@ A passionate Software developer from India
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
-
-## 📊 Most Used Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-## 📈 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
-### 🎨 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=blue&style=plastic)  
